@@ -1,0 +1,10 @@
+Impar: 1
+Par: 2
+Impar: 3
+Par: 4
+Impar: 5
+Par: 6
+Par: 8
+Impar: 7
+Impar: 9
+Par: 10
